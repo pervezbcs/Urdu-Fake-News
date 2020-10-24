@@ -12,4 +12,4 @@ Minimum Article Lenght = 25
 
 Vocabulary Size = 2,101,801
 	
-
+The models of Machine learning (SVM, NB, and DT) and ensemble learning models (Ensemble Selection, Cascade Generalization, Voting, Grading, and Stacking ) on both corpora (UFN and BET) are given in individual folders. All the models are generated using open-source data mining software WEKA.
